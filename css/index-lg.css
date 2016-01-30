@@ -36,11 +36,11 @@
 }
 
 .visible-lg-block > .head1 {
-	height: 75vh;
+	height: 65vh;
 }
 
 .visible-lg-block > .content1 {
-	height: 25vh;
+	height: 35vh;
 	background-color: #141414;
 }
 
