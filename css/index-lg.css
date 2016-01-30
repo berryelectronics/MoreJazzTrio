@@ -36,11 +36,11 @@
 }
 
 .visible-lg-block > .head1 {
-	height: 70vh;
+	height: 80vh;
 }
 
 .visible-lg-block > .content1 {
-	height: 30vh;
+	height: 20vh;
 	background-color: #141414;
 }
 
@@ -49,12 +49,12 @@
 }
 
 .visible-lg-block > .content1 > .content1-text {
-	padding-top: 3vh;
+	padding-top: 2vh;
 	margin-left: auto;
     margin-right: auto;
     text-align: center;
 	font-family: 'Lato', sans-serif;
-	font-size: 3vw;
+	font-size: 4vh;
 	font-weight: 300;
 	color: #ecf0f1;
 
