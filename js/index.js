@@ -5,6 +5,6 @@ $(document).ready(function() {
         speed: 2000
     });
     
-    $('.content2-text-1').textfill();
+    $('.content2-text-1').textfill(0, 11);
 });
 
